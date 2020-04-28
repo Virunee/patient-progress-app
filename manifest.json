@@ -1,0 +1,8 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "patient-progress-app",
+  "short_name": "patient-progress-app",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
